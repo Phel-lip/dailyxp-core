@@ -1,0 +1,14 @@
+# Dependências e arquivos gerados
+**/node_modules/
+**/bin/
+**/obj/
+**/dist/
+
+# Arquivos privados
+**/.env
+**/.env.*
+**/*.user
+
+# Arquivos fora do backend
+.git/
+frontend/

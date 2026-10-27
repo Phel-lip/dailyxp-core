@@ -1,0 +1,13 @@
+# React
+**/node_modules/
+**/dist/
+
+# C# / .NET
+**/bin/
+**/obj/
+
+# Configurações privadas
+.env
+.env.*
+!.env.example
+*.user
