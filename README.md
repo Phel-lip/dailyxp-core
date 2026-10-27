@@ -1,3 +1,11 @@
+## Demonstração
+
+**[Acessar DailyXP Core](https://phel-lip.github.io/dailyxp-core/)**
+
+Aplicação publicada com frontend React no GitHub Pages, API ASP.NET Core (.NET 10) no Render e banco PostgreSQL no Neon.
+
+- [Aplicação online](https://phel-lip.github.io/dailyxp-core/)
+- [Código-fonte](https://github.com/Phel-lip/dailyxp-core)
 
 # DailyXP Core
 
