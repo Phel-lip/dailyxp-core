@@ -1,7 +1,9 @@
 
 import { useEffect, useState } from "react";
 
-const API = "http://localhost:5072/api/habitos";
+const API = import.meta.env.PROD
+  ? "https://dailyxp-core-api.onrender.com/api/habitos"
+  : "http://localhost:5072/api/habitos";
 
 // Identificação anônima deste navegador
 function obterVisitanteId() {
