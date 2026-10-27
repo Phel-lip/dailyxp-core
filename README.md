@@ -1,3 +1,8 @@
+## Prévia da aplicação
+
+![DailyXP Core - Gerenciador de hábitos](./dailyxp.png)
+
+
 ## Demonstração
 
 **[Acessar DailyXP Core](https://phel-lip.github.io/dailyxp-core/)**
