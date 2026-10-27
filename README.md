@@ -1,7 +1,12 @@
+# DailyXP Core
+
+Aplicação Full Stack de gerenciamento de hábitos, com sistema simples de recompensas por XP.
+
+O projeto permite cadastrar, visualizar, concluir, reabrir e excluir hábitos. Cada hábito concluído vale 20 XP.
+
 ## Prévia da aplicação
 
 ![DailyXP Core - Gerenciador de hábitos](./dailyxp.png)
-
 
 ## Demonstração
 
@@ -11,12 +16,6 @@ Aplicação publicada com frontend React no GitHub Pages, API ASP.NET Core (.NET
 
 - [Aplicação online](https://phel-lip.github.io/dailyxp-core/)
 - [Código-fonte](https://github.com/Phel-lip/dailyxp-core)
-
-# DailyXP Core
-
-Aplicação Full Stack de gerenciamento de hábitos, com sistema simples de recompensas por XP.
-
-O projeto permite cadastrar, visualizar, concluir, reabrir e excluir hábitos. Cada hábito concluído vale 20 XP.
 
 ## Tecnologias
 
